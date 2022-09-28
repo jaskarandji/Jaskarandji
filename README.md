@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/jaskarandji" target="blank"><img src="https://img.shields.io/twitter/follow/jaskarandji?logo=twitter&style=for-the-badge" alt="jaskarandji" /></a> </p>
 
-- 🌱 I’m currently learning **Web development.**
+- 🌱  I’m currently working on becoming an active open source contributor!**
 
 - 👯 I’m looking to collaborate on **Open source.**
 
