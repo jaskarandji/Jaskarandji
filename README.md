@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaskarandji&label=Profile%20views&color=0e75b6&style=flat" alt="jaskarandji" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jaskarandji" target="blank"><img src="https://img.shields.io/twitter/follow/jaskarandji?logo=twitter&style=for-the-badge" alt="jaskarandji" /></a> </p>
+
 
 - 🌱 currently working on becoming an active open source contributor
 
-- 👯 I’m looking to collaborate on **Open source.**
+- ⭐ I’m looking for Software engineering internship opportunities 🙋. I’m interested in solving problems and building software that impact people around me 🙌
 
 - 💬 Ask me about **open source contribution.**
 
-- 📫 How to reach me **Jaskarandji@gmail.com**
+- 📫 How to reach me **Jaskarandji@gmail.com**, <p align="left"> <a href="https://twitter.com/jaskarandji" target="blank"><img src="https://img.shields.io/twitter/follow/jaskarandji?logo=twitter&style=for-the-badge" alt="jaskarandji" /></a> </p>
 
 - ⚡ Fun fact **I am still learner **
 
