@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaskaran</h1>
-<h3 align="center">A passionate about open source and app dev.</h3>
+<h3 align="center"> I am learnig web dev.</h3>
 
 
 - 🌱 currently working on becoming an active open source contributor
